@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 36,
+    "height" : 55
+  }, {
+    "width" : 71,
+    "height" : 110
+  }, {
+    "width" : 142,
+    "height" : 220
+  }, {
+    "width" : 284,
+    "height" : 440
+  }, {
+    "width" : 568,
+    "height" : 880
+  }, {
+    "width" : 1135,
+    "height" : 1760
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1135,
+  "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f47",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1760
+}
