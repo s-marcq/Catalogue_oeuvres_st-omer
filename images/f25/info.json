@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 36,
+    "height" : 55
+  }, {
+    "width" : 71,
+    "height" : 110
+  }, {
+    "width" : 142,
+    "height" : 219
+  }, {
+    "width" : 283,
+    "height" : 438
+  }, {
+    "width" : 565,
+    "height" : 876
+  }, {
+    "width" : 1129,
+    "height" : 1752
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1129,
+  "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f25",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1752
+}
