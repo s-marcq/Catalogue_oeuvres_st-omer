@@ -1,0 +1,13 @@
+{
+  "id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in s-marcq/Catalogue_oeuvres_st-omer project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json",
+    "label" : "Catalog of paintings housed in Saint-Omer from 1898."
+  } ]
+}
