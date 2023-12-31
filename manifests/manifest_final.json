@@ -29,6 +29,15 @@
 					"label": "Page_6",
 					"height": 1756,
 					"width": 1138,
+					"thumbnail": [
+        {
+          "id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f22/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpg",
+          "width": 640,
+          "height": 360
+        }
+
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
