@@ -43,7 +43,7 @@
   {
     "id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f22/full/full/0/default.jpg",
     "type": "Image",
-    "format": "image/png",
+    "format": "image/jpg",
     "width": 640,
     "height": 360
   }
@@ -79,10 +79,10 @@
   {
     "id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f25/full/full/0/default.jpg",
     "type": "Image",
-    "format": "image/png",
+    "format": "image/jpg",
     "width": 640,
     "height": 360
-  }
+  }]
         },
         "on" : "http://8ef38697-bee8-4ed7-926f-3de3cd713216"
       } ],
@@ -109,6 +109,15 @@
           },
           "height" : 1749,
           "width" : 1124
+                    "thumbnail": [
+  {
+    "id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f26/full/full/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpg",
+    "width": 640,
+    "height": 360
+  }
+]
         },
         "on" : "http://4cf3355f-087a-4a7b-9468-c70e58a9d15f"
       } ],
@@ -135,6 +144,15 @@
           },
           "height" : 1760,
           "width" : 1135
+                    "thumbnail": [
+  {
+    "id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f47/full/full/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpg",
+    "width": 640,
+    "height": 360
+  }
+]
         },
         "on" : "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
       } ],
@@ -161,6 +179,15 @@
           },
           "height" : 1758,
           "width" : 1127
+                    "thumbnail": [
+  {
+    "id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f48/full/full/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpg",
+    "width": 640,
+    "height": 360
+  }
+]
         },
         "on" : "http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
       } ],
