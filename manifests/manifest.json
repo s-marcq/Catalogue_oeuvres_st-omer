@@ -39,6 +39,15 @@
           },
           "height" : 1756,
           "width" : 1138
+          "thumbnail": [
+  {
+    "id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f22/full/full/0/default.jpg",
+    "type": "Image",
+    "format": "image/png",
+    "width": 640,
+    "height": 360
+  }
+]
         },
         "on" : "http://59148884-46a5-4ec1-8012-358dfb9cf263"
       } ],
@@ -66,6 +75,14 @@
           },
           "height" : 1752,
           "width" : 1129
+                    "thumbnail": [
+  {
+    "id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f25/full/full/0/default.jpg",
+    "type": "Image",
+    "format": "image/png",
+    "width": 640,
+    "height": 360
+  }
         },
         "on" : "http://8ef38697-bee8-4ed7-926f-3de3cd713216"
       } ],
