@@ -179,15 +179,7 @@
           },
           "height" : 1758,
           "width" : 1127
-                    "thumbnail": [
-  {
-    "id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f48/full/full/0/default.jpg",
-    "type": "Image",
-    "format": "image/jpg",
-    "width": 640,
-    "height": 360
-  }
-]
+
         },
         "on" : "http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
       } ],
