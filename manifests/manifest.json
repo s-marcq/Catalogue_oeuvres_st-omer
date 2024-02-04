@@ -85,8 +85,7 @@
 							"label": "Base Joconde : Musicien tenant un vidrecome",
 							"format": "HTML"
 						}
-					],
-					"metadata": []
+					]
 				},
 				{
 					"@id": "http://8ef38697-bee8-4ed7-926f-3de3cd713216",
@@ -246,6 +245,19 @@
 	],
 	"viewingDirection": "left-to-right",
 	"structures": [
+		{
+			"@id": "http://example.org/iiif/book1/range/top",
+			"@type": "sc:Range",
+			"label": "Table of Content",
+			"viewingHint": "top",
+			"ranges": [
+				"http://example.org/iiif/book1/range/page6",
+				"http://example.org/iiif/book1/range/page9",
+				"http://example.org/iiif/book1/range/page10",
+				"http://example.org/iiif/book1/range/page31",
+				"http://example.org/iiif/book1/range/page32"
+			]
+		},
 		{
 			"@id": "http://example.org/iiif/book1/range/page6",
 			"@type": "sc:Range",
