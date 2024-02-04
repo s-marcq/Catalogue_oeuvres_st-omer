@@ -85,14 +85,8 @@
 							"label": "Base Joconde : Musicien tenant un vidrecome",
 							"format": "HTML"
 						}
-					],
-					"otherContent" : [ 
-							{
-							        "@type" : "sc:AnnotationList",
-							        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page6.json",
-							        "label" : "Annotations for Page 6"
-							} 
 					]
+					
 				},
 				{
 					"@id": "http://8ef38697-bee8-4ed7-926f-3de3cd713216",
@@ -132,13 +126,6 @@
 							"label": "Joconde database : Paysage aux patineurs",
 							"format": "HTML"
 						}
-					],	
-					"otherContent" : [ 
-						{
-							"@type" : "sc:AnnotationList",
-							"@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page9.json",
-							"label" : "Annotations for Page 9"
-						} 
 					]
 				
 				},
@@ -180,13 +167,6 @@
 							"label": "Base Joconde : Le Christ présenté aux Juifs",
 							"format": "HTML"
 						}
-					],
-					"otherContent" : [ 
-						{
-							"@type" : "sc:AnnotationList",
-							"@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page10.json",
-							"label" : "Annotations for Page 10"
-						} 
 					]
 				},
 				{
@@ -220,14 +200,8 @@
 						"@id": "https://www.pop.culture.gouv.fr/notice/joconde/M0650000251?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22mages%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%22023c276-074e-5a5-c2fb-1fdec625c3ee%22",
 						"label": "Base Joconde : Adoration des mages",
 						"format": "HTML"
-					},
-					"otherContent" : [ 
-						{
-							"@type" : "sc:AnnotationList",
-							"@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page31.json",
-							"label" : "Annotations for Page 31"
-						} 
-					]
+					}
+					
 				},
 				{
 					"@id": "http://0b114031-ff54-4db3-bfe3-c5a99922c39d",
@@ -268,13 +242,6 @@
 							"label": "Base Joconde : Vue d'un port du Levant",
 							"format": "HTML"
 						}
-					],
-					"otherContent" : [ 
-						{
-							"@type" : "sc:AnnotationList",
-							"@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page32.json",
-							"label" : "Annotations for Page 32"
-						} 
 					]
 				}
 			]
