@@ -2,12 +2,6 @@
 	"@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Catalog of paintings housed in Saint-Omer published in 1898.",
-	"description": [
-		{
-			"@value": "Five pages from the Catalogue des tableaux du musée communal de Saint-Omer (1898) have been annotated in an attempt to explore the evolution of attributions and titles of the paintings and to provide a visual representation of the listed artworks.",
-			"@language": "en"
-		}
-	],
 	"metadata": [
 		{
 			"label" : "Type",
@@ -34,13 +28,24 @@
 			"value" : "Notice dans le catalogue de la BnF : http://catalogue.bnf.fr/ark:/12148/cb31202945s"
 		  }	
 	],
+	"description": [
+		{
+			"@value": "Five pages from the Catalogue des tableaux du musée communal de Saint-Omer (1898) have been annotated in an attempt to explore the evolution of attributions and titles of the paintings and to provide a visual representation of the listed artworks.",
+			"@language": "en"
+		}
+	],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
 	"attribution": "Images of the book provided by the Bibliothèque nationale de France, pictures of the paintings used as annotations provided by the Joconde database, IIIF manifest and annotations provided by Sarah Marcq.",
 	"sequences": [
 		{
 			"@id": "http://04972f46-c4fc-4843-95e7-6fafab1001e8",
 			"@type": "sc:Sequence",
-			"label": "Normal Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
 			"canvases": [
 				{
 					"@id": "http://59148884-46a5-4ec1-8012-358dfb9cf263",
@@ -80,7 +85,8 @@
 							"label": "Base Joconde : Musicien tenant un vidrecome",
 							"format": "HTML"
 						}
-					]
+					],
+					"metadata": []
 				},
 				{
 					"@id": "http://8ef38697-bee8-4ed7-926f-3de3cd713216",
