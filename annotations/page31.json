@@ -39,43 +39,6 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Name currently used :&nbsp;Memling",
-      "@type" : "dctypes:Text",
-      "format" : "text/html",
-      "chars" : "<p>Name currently used :<strong>&nbsp;Memling</strong></p>"
-    }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "artist",
-      "@type" : "oa:Tag",
-      "chars" : "artist"
-    } ],
-    "@type" : "oa:Annotation",
-    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
-    "motivation" : [ "oa:commenting", "oa:tagging" ],
-    "dcterms:created" : "2024-02-04T14:31:42",
-    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707057102178",
-    "dcterms:modified" : "2024-02-04T14:44:54",
-    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
-    "on" : [ {
-      "within" : {
-        "@type" : "sc:Manifest",
-        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
-      },
-      "@type" : "oa:SpecificResource",
-      "selector" : {
-        "default" : {
-          "@type" : "oa:FragmentSelector",
-          "value" : "xywh=244,677,181,47"
-        },
-        "item" : {
-          "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M244.12745,677.41176h90.5098v0h90.5098v23.64706v23.64706h-90.5098h-90.5098v-23.64706z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f77641e5-1fca-4454-b647-f3f3dc0c8ba5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"12.94118\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
-        },
-        "@type" : "oa:Choice"
-      },
-      "full" : "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
-    } ]
-  }, {
-    "resource" : [ {
       "http://dev.llgc.org.uk/sas/full_text" : "Name currently used : Hans Memling",
       "@type" : "dctypes:Text",
       "format" : "text/html",
@@ -143,43 +106,6 @@
         "item" : {
           "@type" : "oa:SvgSelector",
           "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M232.45455,1378h36.90909v0h36.90909v21v21h-36.90909h-36.90909v-21z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_dabe1964-6b61-452e-a9b2-048336a98258\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.47059\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
-        },
-        "@type" : "oa:Choice"
-      },
-      "full" : "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
-    } ]
-  }, {
-    "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Name currently used :&nbsp;Michiel Jansz. van Mierevelt",
-      "@type" : "dctypes:Text",
-      "format" : "text/html",
-      "chars" : "<p>Name currently used :&nbsp;<strong>Michiel Jansz.</strong> van Mierevelt</p>"
-    }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "artist",
-      "@type" : "oa:Tag",
-      "chars" : "artist"
-    } ],
-    "@type" : "oa:Annotation",
-    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
-    "motivation" : [ "oa:commenting", "oa:tagging" ],
-    "dcterms:created" : "2024-02-04T14:48:23",
-    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707058103781",
-    "dcterms:modified" : "2024-02-04T14:50:07",
-    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
-    "on" : [ {
-      "within" : {
-        "@type" : "sc:Manifest",
-        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
-      },
-      "@type" : "oa:SpecificResource",
-      "selector" : {
-        "default" : {
-          "@type" : "oa:FragmentSelector",
-          "value" : "xywh=253,1343,641,42"
-        },
-        "item" : {
-          "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M253.36364,1343.45455h320.54545v0h320.54545v21v21h-320.54545h-320.54545v-21z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_782d3a9a-62f0-452f-b641-c2c640e874b0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"12.94118\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         },
         "@type" : "oa:Choice"
       },
