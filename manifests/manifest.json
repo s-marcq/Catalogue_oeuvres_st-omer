@@ -247,16 +247,7 @@
 	"viewingDirection": "left-to-right",
 	"structures": [
 		{
-			"@id": "http://example.org/iiif/book1/range/top",
-			"@type": "sc:Range",
-			"label": "Table of Content",
-			"viewingHint": "top",
-			"ranges": [
-				"http://example.org/iiif/book1/range/intro"
-			]
-		},
-		{
-			"@id": "http://example.org/iiif/book1/range/intro",
+			"@id": "http://example.org/iiif/book1/range/page6",
 			"@type": "sc:Range",
 			"label": "Page 6",
 			"canvases": [
@@ -264,7 +255,7 @@
 			]
 		},
 		{
-			"@id": "http://example.org/iiif/book1/range/intro",
+			"@id": "http://example.org/iiif/book1/range/page9",
 			"@type": "sc:Range",
 			"label": "Page 9",
 			"canvases": [
@@ -272,7 +263,7 @@
 			]
 		},
 		{
-			"@id": "http://example.org/iiif/book1/range/intro",
+			"@id": "http://example.org/iiif/book1/range/page10",
 			"@type": "sc:Range",
 			"label": "Page 10",
 			"canvases": [
@@ -280,7 +271,7 @@
 			]
 		},
 		{
-			"@id": "",
+			"@id": "http://example.org/iiif/book1/range/page31",
 			"@type": "sc:Range",
 			"label": "Page 31",
 			"canvases": [
@@ -288,7 +279,7 @@
 			]
 		},
 		{
-			"@id": "http://example.org/iiif/book1/range/intro",
+			"@id": "http://example.org/iiif/book1/range/page32",
 			"@type": "sc:Range",
 			"label": "Page 32",
 			"canvases": [
