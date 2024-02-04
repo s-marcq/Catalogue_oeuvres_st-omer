@@ -5,19 +5,18 @@
 	"metadata": [
 		{
 			"label" : "Type",
-			"value" : "Livre"
+			"value" : "Book"
 		},
 		{
 			"label" : "Title",
-			"value" : "Catalogue des tableaux du musée communal de Saint-Omer / par Charles Revillion,..."
-		},
+			"value" : "Catalogue des tableaux du musée communal de Saint-Omer"
 		{
 			"label" : "Date",
 			"value" : "1898"
 		},
 		{
 			"label" : "Creator",
-			"value" : "Revillion, Charles (18..-1913). Auteur du texte"
+			"value" : "Revillion, Charles (18..-1913). Author."
 		},
 		{
 			"label" : "Digitised by",
@@ -25,7 +24,7 @@
 		},
 		{
 			"label" : "Relation",
-			"value" : "Notice dans le catalogue de la BnF : http://catalogue.bnf.fr/ark:/12148/cb31202945s"
+			"value" : "Page in the online catalogue of the Bibliothèque nationale de France : http://catalogue.bnf.fr/ark:/12148/cb31202945s"
 		  }	
 	],
 	"description": [
