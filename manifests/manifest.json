@@ -272,8 +272,8 @@
 					"otherContent" : [ 
 						{
 							"@type" : "sc:AnnotationList",
-							"@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page6.json",
-							"label" : "Annotations for Page 6"
+							"@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page32.json",
+							"label" : "Annotations for Page 32"
 						} 
 					]
 				}
