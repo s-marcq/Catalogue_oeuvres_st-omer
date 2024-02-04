@@ -1,0 +1,187 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<div class=\"text-viewer\" style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">\n<p style=\"margin-top: 0px;\">Latest attribution :&nbsp;Hendrick van MinderhoutCurrent title (french) :&nbsp;Vue d'un port au Levant.\n<p style=\"margin-top: 0px;\">&nbsp;\n",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<div class=\"text-viewer\" style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">\n<p style=\"margin-top: 0px;\">Latest attribution :&nbsp;Hendrick van Minderhout<br />Current title (french) :&nbsp;Vue d'un port au Levant.</p>\n<p style=\"margin-top: 0px;\">&nbsp;</p>\n</div>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-04T14:57:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707058655848",
+    "dcterms:modified" : "2024-02-04T14:57:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=240,766,403,53"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M239.72727,766.18182h201.45455v0h201.45455v26.45455v26.45455h-201.45455h-201.45455v-26.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_20aaffeb-4d8e-41f4-b6e0-96021af67f50\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Name currently used :&nbsp;Hendrik van Minderhout",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Name currently used :&nbsp;<strong>Hendrik</strong> van Minderhout</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artist",
+      "@type" : "oa:Tag",
+      "chars" : "artist"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-02-04T14:55:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707058540705",
+    "dcterms:modified" : "2024-02-04T14:56:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=314,644,407,49"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M313.64118,643.64725h203.29926v0h203.29926v24.26765v24.26765h-203.29926h-203.29926v-24.26765z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_5a9ca909-3458-4467-b414-def1a0003edc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"0.90909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/M0650000190/052455.jpg\" alt=\"Hendrik van Minderhout, View of a Harbor in the Levant\" width=\"1600\" height=\"979\" />\nHendrik van Minderhout,&nbsp;View of a Harbor in the Levant, 1670, oil on canvas, 178x271 cm, Saint-omer, Mus&eacute;e Sandelin.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/M0650000190/052455.jpg\" alt=\"Hendrik van Minderhout, View of a Harbor in the Levant\" width=\"1600\" height=\"979\" /></p>\n<p>Hendrik van Minderhout,&nbsp;<em>View of a Harbor in the Levant</em>, 1670, oil on canvas, 178x271 cm, Saint-omer, Mus&eacute;e Sandelin.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "picture",
+      "@type" : "oa:Tag",
+      "chars" : "picture"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-02-04T15:00:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707058841299",
+    "dcterms:modified" : "2024-02-04T15:11:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=286,823,742,740"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M286.49847,823.28669h370.85484v0h370.85484v369.93513v369.93513h-370.85484h-370.85484v-369.93513z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_3afa3f6f-9adb-4741-893c-a76ff35e629b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"12.92647\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Latest attribution :&nbsp;Cornelis de Vos<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Current title (french) :&nbsp;Portrait de femme.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Latest attribution :&nbsp;<strong>Cornelis de Vos</strong><br /></span><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Current title (french) :&nbsp;Portrait de femme.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "new attribution",
+      "@type" : "oa:Tag",
+      "chars" : "new attribution"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-02-04T14:52:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707058373419",
+    "dcterms:modified" : "2024-02-04T15:02:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=245,211,336,56"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M244.80147,211.28676h167.96691v0h167.96691v27.93014v27.93014h-167.96691h-167.96691v-27.93014z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_d65e6692-8d87-4b1f-9133-a52fe5507bf7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.46324\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/06500100012/0100012x1.jpg\" alt=\"Cornelis de Vos, Portrait of a lady\" width=\"431\" height=\"512\" />\nCornelis de Vos, Portrait of a Lady, 1628, oil on panel, 92x79 cm, Saint-Omer, Mus&eacute;e Sandelin.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/06500100012/0100012x1.jpg\" alt=\"Cornelis de Vos, Portrait of a lady\" width=\"431\" height=\"512\" /></p>\n<p>Cornelis de Vos, <em>Portrait of a Lady</em>, 1628, oil on panel, 92x79 cm, Saint-Omer, Mus&eacute;e Sandelin.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "picture",
+      "@type" : "oa:Tag",
+      "chars" : "picture"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-02-04T14:54:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707058479832",
+    "dcterms:modified" : "2024-02-04T15:11:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=295,271,678,343"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M972.89075,614.16176h-338.75052v0h-338.75052v-171.35294v-171.35294h338.75052h338.75052v171.35294z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_a42c596d-7dfd-4aae-a585-20b02f13d0eb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"12.92647\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
+    } ]
+  } ],
+  "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page32.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
