@@ -72,10 +72,10 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/M0650000190/052455.jpg\" alt=\"Hendrik van Minderhout, View of a Harbor in the Levant\" width=\"1600\" height=\"979\" />\nHendrik van Minderhout,&nbsp;View of a Harbor in the Levant, 1670, oil on canvas, 178x271 cm, Saint-omer, Mus&eacute;e Sandelin.",
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/M0650000190/052455.jpg\" alt=\"Hendrik van Minderhout, View of a Harbor in the Levant\" width=\"1600\" height=\"979\" />\nHendrik van Minderhout,&nbsp;View of a Harbor in the Levant, 1670, oil on canvas, 178x271 cm, Saint-Omer, Mus&eacute;e Sandelin.",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p><img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/M0650000190/052455.jpg\" alt=\"Hendrik van Minderhout, View of a Harbor in the Levant\" width=\"1600\" height=\"979\" /></p>\n<p>Hendrik van Minderhout,&nbsp;<em>View of a Harbor in the Levant</em>, 1670, oil on canvas, 178x271 cm, Saint-omer, Mus&eacute;e Sandelin.</p>"
+      "chars" : "<p><img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/M0650000190/052455.jpg\" alt=\"Hendrik van Minderhout, View of a Harbor in the Levant\" width=\"1600\" height=\"979\" /></p>\n<p>Hendrik van Minderhout,&nbsp;<em>View of a Harbor in the Levant</em>, 1670, oil on canvas, 178x271 cm, Saint-Omer, Mus&eacute;e Sandelin.</p>"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "picture",
       "@type" : "oa:Tag",
