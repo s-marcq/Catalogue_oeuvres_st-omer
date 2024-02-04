@@ -251,49 +251,68 @@
 			"label": "Table of Content",
 			"viewingHint": "top",
 			"ranges": [
-				"http://example.org/iiif/book1/range/page6",
-				"http://example.org/iiif/book1/range/page9",
-				"http://example.org/iiif/book1/range/page10",
-				"http://example.org/iiif/book1/range/page31",
-				"http://example.org/iiif/book1/range/page32"
+				"http://example.org/iiif/book1/range/range1",
+				"http://example.org/iiif/book1/range/range2",
+				"http://example.org/iiif/book1/range/range3",
+				"http://example.org/iiif/book1/range/range4",
+				"http://example.org/iiif/book1/range/range5",
+				"http://example.org/iiif/book1/range/range6",
+				"http://example.org/iiif/book1/range/range7"
 			]
 		},
 		{
-			"@id": "http://example.org/iiif/book1/range/page6",
+			"@id": "http://example.org/iiif/book1/range/range1",
 			"@type": "sc:Range",
-			"label": "Page 6",
+			"label": "Valentin de Boulogne",
 			"canvases": [
 				"http://59148884-46a5-4ec1-8012-358dfb9cf263"
 			]
 		},
 		{
-			"@id": "http://example.org/iiif/book1/range/page9",
+			"@id": "http://example.org/iiif/book1/range/range2",
 			"@type": "sc:Range",
-			"label": "Page 9",
+			"label": "Les Brueghel",
 			"canvases": [
-				"http://8ef38697-bee8-4ed7-926f-3de3cd713216"
+				"http://8ef38697-bee8-4ed7-926f-3de3cd713216",
+				"http://4cf3355f-087a-4a7b-9468-c70e58a9d15f"
 			]
 		},
 		{
-			"@id": "http://example.org/iiif/book1/range/page10",
+			"@id": "http://example.org/iiif/book1/range/range3",
 			"@type": "sc:Range",
-			"label": "Page 10",
+			"label": "Hippolyte de Bruyères",
 			"canvases": [
 				"http://4cf3355f-087a-4a7b-9468-c70e58a9d15f"
 			]
 		},
 		{
-			"@id": "http://example.org/iiif/book1/range/page31",
+			"@id": "http://example.org/iiif/book1/range/range4",
 			"@type": "sc:Range",
-			"label": "Page 31",
+			"label": "Elise de Maussion",
 			"canvases": [
 				"http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
 			]
 		},
 		{
-			"@id": "http://example.org/iiif/book1/range/page32",
+			"@id": "http://example.org/iiif/book1/range/range5",
 			"@type": "sc:Range",
-			"label": "Page 32",
+			"label": "Hans Memling",
+			"canvases": [
+				"http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+			]
+		},
+		{
+			"@id": "http://example.org/iiif/book1/range/range6",
+			"@type": "sc:Range",
+			"label": "Michiel Jansz. van Mierevelt",
+			"canvases": [
+				"http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+			]
+		},
+		{
+			"@id": "http://example.org/iiif/book1/range/range7",
+			"@type": "sc:Range",
+			"label": "Hendrik van Minderhout",
 			"canvases": [
 				"http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
 			]
