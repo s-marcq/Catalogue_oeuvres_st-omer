@@ -8,6 +8,32 @@
 			"@language": "en"
 		}
 	],
+	"metadata": [
+		{
+			"label" : "Type",
+			"value" : "Livre"
+		},
+		{
+			"label" : "Title",
+			"value" : "Catalogue des tableaux du musée communal de Saint-Omer / par Charles Revillion,..."
+		},
+		{
+			"label" : "Date",
+			"value" : "1898"
+		},
+		{
+			"label" : "Creator",
+			"value" : "Revillion, Charles (18..-1913). Auteur du texte"
+		},
+		{
+			"label" : "Digitised by",
+			"value" : "Bibliothèque nationale de France"
+		},
+		{
+			"label" : "Relation",
+			"value" : "Notice dans le catalogue de la BnF : http://catalogue.bnf.fr/ark:/12148/cb31202945s"
+		  }	
+	],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
 	"attribution": "Images of the book provided by the Bibliothèque nationale de France, pictures of the paintings used as annotations provided by the Joconde database, IIIF manifest and annotations provided by Sarah Marcq.",
 	"sequences": [
@@ -43,7 +69,6 @@
 							"on": "http://59148884-46a5-4ec1-8012-358dfb9cf263"
 						}
 					],
-					"metadata": [],
 					"related": [
 						{
 							"@id": "https://www.pop.culture.gouv.fr/notice/joconde/06500100092?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22boulogne%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%228cb51b1-3126-585c-6156-8e651837c6d2%22",
@@ -95,9 +120,7 @@
 							"label": "Joconde database : Paysage aux patineurs",
 							"format": "HTML"
 						}
-					],
-					"metadata": []
-				},
+					]				},
 				{
 					"@id": "http://4cf3355f-087a-4a7b-9468-c70e58a9d15f",
 					"@type": "sc:Canvas",
@@ -229,9 +252,41 @@
 		{
 			"@id": "http://example.org/iiif/book1/range/intro",
 			"@type": "sc:Range",
-			"label": "Introduction",
+			"label": "Page 6",
 			"canvases": [
 				"http://59148884-46a5-4ec1-8012-358dfb9cf263"
+			]
+		},
+		{
+			"@id": "http://example.org/iiif/book1/range/intro",
+			"@type": "sc:Range",
+			"label": "Page 9",
+			"canvases": [
+				"http://8ef38697-bee8-4ed7-926f-3de3cd713216"
+			]
+		},
+		{
+			"@id": "http://example.org/iiif/book1/range/intro",
+			"@type": "sc:Range",
+			"label": "Page 10",
+			"canvases": [
+				"http://4cf3355f-087a-4a7b-9468-c70e58a9d15f"
+			]
+		},
+		{
+			"@id": "",
+			"@type": "sc:Range",
+			"label": "Page 31",
+			"canvases": [
+				"http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+			]
+		},
+		{
+			"@id": "http://example.org/iiif/book1/range/intro",
+			"@type": "sc:Range",
+			"label": "Page 32",
+			"canvases": [
+				"http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
 			]
 		}
 	]
