@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page6" ],
+  "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/collection.json",
+  "label" : "All annotations loaded in s-marcq/Catalogue_oeuvres_st-omer project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
