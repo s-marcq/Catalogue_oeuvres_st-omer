@@ -1,0 +1,281 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/06500100201/0100201x1.jpg\" alt=\"Hippolyte Bruy&egrave;res, Ecce Homo\" width=\"450\" height=\"512\" />\nHippolyte de Bruy&egrave;res,&nbsp;Ecce Homo, 1827, oil on canvas, 122x115 cm, Saint-Omer, Mus&eacute;e Sandelin.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/06500100201/0100201x1.jpg\" alt=\"Hippolyte Bruy&egrave;res, Ecce Homo\" width=\"450\" height=\"512\" /></p>\n<p>Hippolyte de Bruy&egrave;res,&nbsp;<em>Ecce Homo</em>, 1827, oil on canvas, 122x115 cm, Saint-Omer, Mus&eacute;e Sandelin.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:56:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707094590841",
+    "dcterms:modified" : "2024-02-05T00:56:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=227,209,667,204"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M227.21645,209.16339h333.27133v0h333.27133v102.12606v102.12606h-333.27133h-333.27133v-102.12606z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_74747258-0937-42d5-87d5-d84e83532c6b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Born in Seligenstadt, near Mainz, around 1435/40",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Born in <strong>Seligenstadt</strong>, near Mainz, around <strong>1435/40</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:58:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707094727858",
+    "dcterms:modified" : "2024-02-05T00:58:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=462,723,326,36"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M461.8289,723.46162h162.80169v0h162.80169v17.75803v17.75803h-162.80169h-162.80169v-17.75803z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f46fe4ec-d5a6-449b-81d4-d12cac2c7cbb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/M0650000251/050099.jpg\" alt=\"Master of the Khanenko Adoration, Adoration of the Magi\" width=\"1480\" height=\"1200\" />\nMaster of the Khanenko Adoration, Adoration of the Magi, 4th quarter of the 15th century, oil on panel, 50x58 cm, Saint-Omer, Mus&eacute;e Sandelin.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/M0650000251/050099.jpg\" alt=\"Master of the Khanenko Adoration, Adoration of the Magi\" width=\"1480\" height=\"1200\" /></p>\n<p>Master of the Khanenko Adoration, <em>Adoration of the Magi</em>, 4th quarter of the 15th century, oil on panel, 50x58 cm, Saint-Omer, Mus&eacute;e Sandelin.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T01:01:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707094898499",
+    "dcterms:modified" : "2024-02-05T01:01:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=232,861,651,473"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M882.51329,1333.68513h-325.49269v0h-325.49269v-236.50177v-236.50177h325.49269h325.49269v236.50177z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_65d9a7b4-4763-48eb-9947-02ecd2a447d0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "No information available",
+      "@type" : "oa:Tag",
+      "chars" : "No information available"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "No information found on Elise de Maussion.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>No information found on Elise de Maussion.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:57:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707094637446",
+    "dcterms:modified" : "2024-02-05T00:57:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=178,426,721,235"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M899.84919,661.05239h-360.74235v0h-360.74235v-117.46195v-117.46195h360.74235h360.74235v117.46195z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_13f32040-71f8-480e-aa4b-abea8552ade2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Name currently used : Hans Memling",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Name currently used : Hans Memling</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:58:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707094681850",
+    "dcterms:modified" : "2024-02-05T00:58:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=253,682,168,42"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M252.64243,681.85547h84.2123v0h84.2123v21.22521v21.22521h-84.2123h-84.2123v-21.22521z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_58ce4761-93ec-46a9-a01f-28b4fcaa8d0d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=251,725,206,30"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M457.206,755.82195h-103.01537v0h-103.01537v-15.18017v-15.18017h103.01537h103.01537v15.18017z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_21a59cab-4fe3-4cba-af2b-b4ba6877e128\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Name currently used :&nbsp;Michiel Jansz. van Mierevelt",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Name currently used :&nbsp;Michiel Jansz. van Mierevelt</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T01:02:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707094952551",
+    "dcterms:modified" : "2024-02-05T01:02:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=255,1339,627,45"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M255.18182,1338.99081h313.27273v0h313.27273v22.36364v22.36364h-313.27273h-313.27273v-22.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_989bbe06-4e47-4d54-85ef-33028c77bbb4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=228,1383,81,47"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M227.90909,1382.62717h40.54545v0h40.54545v23.27273v23.27273h-40.54545h-40.54545v-23.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_fcb8b8c4-61e2-46c5-902d-d4dbcf22dc01\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Latest Attribution :&nbsp;Master of the Khanenko&nbsp;AdorationCurrent title (french) : Adoration des mages.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Latest Attribution :&nbsp;<strong>Master of the Khanenko</strong>&nbsp;<strong>Adoration</strong><br />Current title (french) : <em>Adoration des mages.</em></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "change of attribution",
+      "@type" : "oa:Tag",
+      "chars" : "change of attribution"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-02-05T01:00:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707094804575",
+    "dcterms:modified" : "2024-02-05T01:10:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=184,804,372,56"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M184.45458,804.36246h185.91622v0h185.91622v28.15957v28.15957h-185.91622h-185.91622v-28.15957z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_cac39e79-5933-4f82-8137-428151d78d15\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"12.94118\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+    } ]
+  } ],
+  "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page31.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
