@@ -1,0 +1,281 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Name currently used : Valentin de Boulogne",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Name currently used : Valentin de <strong>Boulogne</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:32:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707093155618",
+    "dcterms:modified" : "2024-02-05T00:32:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=369,929,357,42"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M368.81818,929.21913h178.72727v0h178.72727v21v21h-178.72727h-178.72727v-21z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_fc973080-c812-4979-ad62-6854e0161a93\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://59148884-46a5-4ec1-8012-358dfb9cf263"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/06500100103/0100103x1.jpg\" alt=\"Musician Holding a Vielle\" width=\"376\" height=\"512\" />\nMusician Holding a Vielle, 1st half ot the 17th century, oil on canvas, 78x60 cm, Saint-Omer, Mus&eacute;e Sandelin.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em><img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/06500100103/0100103x1.jpg\" alt=\"Musician Holding a Vielle\" width=\"376\" height=\"512\" /></em></p>\n<p><em>Musician Holding a Vielle</em>, 1st half ot the 17th century, oil on canvas, 78x60 cm, Saint-Omer, Mus&eacute;e Sandelin.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:38:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707093505063",
+    "dcterms:modified" : "2024-02-05T00:38:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=289,1395,766,158"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1055.18182,1553.09091h-383.09091v0h-383.09091v-79v-79h383.09091h383.09091v79z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5697e2f3-842e-4f84-9f8e-38e57a712df7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://59148884-46a5-4ec1-8012-358dfb9cf263"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "died in Rome in August 1632",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>died in Rome in <strong>August 1632</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:34:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707093248737",
+    "dcterms:modified" : "2024-02-05T00:34:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=337,1008,303,26"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M639.72727,1034.67368h-151.27273v0h-151.27273v-13.09091v-13.09091h151.27273h151.27273v13.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3a7758e1-d648-4e95-b5b4-77d653d20511\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://59148884-46a5-4ec1-8012-358dfb9cf263"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=919,974,74,29"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M993.36364,1002.85549h-37.18182v0h-37.18182v-14.45455v-14.45455h37.18182h37.18182v14.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_94a3d9ed-f8bd-4c7f-bc22-f20c1802d428\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://59148884-46a5-4ec1-8012-358dfb9cf263"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Baptized in Coulommiers in january 1591",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Baptized</strong> in Coulommiers in january 1591</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:33:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707093211656",
+    "dcterms:modified" : "2024-02-05T00:33:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=334,970,580,37"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M334.27273,970.12822h290.09091v0h290.09091v18.27273v18.27273h-290.09091h-290.09091v-18.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b2f332d5-ce97-4fcc-b31e-deea5d777cb1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://59148884-46a5-4ec1-8012-358dfb9cf263"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=918,931,76,38"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M917.90909,931.03731h37.81818v0h37.81818v19.18182v19.18182h-37.81818h-37.81818v-19.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b0d5df84-384c-46b1-b3ab-fab184d0e771\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://59148884-46a5-4ec1-8012-358dfb9cf263"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/06500100092/0100092x1.jpg\" alt=\"Musician Playing the Viola\" width=\"377\" height=\"512\" />\nMusician Playing the Viola, 1st half of the 17th century, oil on canvas, 78x60 cm, Saint-Omer, Mus&eacute;e Sandelin.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em><img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/06500100092/0100092x1.jpg\" alt=\"Musician Playing the Viola\" width=\"377\" height=\"512\" /></em></p>\n<p><em>Musician Playing the Viola</em>, 1st half of the 17th century, oil on canvas, 78x60 cm, Saint-Omer, Mus&eacute;e Sandelin.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:36:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707093382126",
+    "dcterms:modified" : "2024-02-05T00:36:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=289,1209,763,130"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1052.45455,1338.54545h-381.72727v0h-381.72727v-64.90909v-64.90909h381.72727h381.72727v64.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a550e9e7-fc90-4228-ac0d-3e7627910a0b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://59148884-46a5-4ec1-8012-358dfb9cf263"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Latest attribution : Unknown artistCurrent title (french) : Musicien tenant un vidrecome.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Latest attribution : <strong>Unknown artist</strong><br />Current title (french) : <em>Musicien tenant un vidrecome.</em></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "change of attribution",
+      "@type" : "oa:Tag",
+      "chars" : "change of attribution"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-02-05T00:37:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707093426854",
+    "dcterms:modified" : "2024-02-05T00:43:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=288,1343,464,47"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M287.90909,1343.09091h231.90909v0h231.90909v23.72727v23.72727h-231.90909h-231.90909v-23.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_5027ffad-df0b-4be6-933b-f949574b86d8\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"6.69346\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://59148884-46a5-4ec1-8012-358dfb9cf263"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Latest attribution : Unknown artistCurrent title (french) : Musicien jouant de la viole.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Latest attribution : <strong>Unknown artist</strong><br />Current title (french) : <em>Musicien jouant de la viole</em>.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "change of attribution",
+      "@type" : "oa:Tag",
+      "chars" : "change of attribution"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-02-05T00:34:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707093297954",
+    "dcterms:modified" : "2024-02-05T00:43:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=292,1156,429,48"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M291.54545,1156.49186h214.63636v0h214.63636v24.18182v24.18182h-214.63636h-214.63636v-24.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_ea50a2b6-40e7-4978-a243-ff6e17931e42\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"6.69346\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://59148884-46a5-4ec1-8012-358dfb9cf263"
+    } ]
+  } ],
+  "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page06.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
