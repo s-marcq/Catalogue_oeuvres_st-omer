@@ -30,7 +30,7 @@
 	],
 	"description": [
 		{
-			"@value": "Four pages from the Catalogue des tableaux du musée communal de Saint-Omer (1898) have been annotated in an attempt to explore the evolution of the attributions and titles of the paintings and to provide a visual representation of the listed artworks.",
+			"@value": "Five pages from the Catalogue des tableaux du musée communal de Saint-Omer (1898) have been annotated in an attempt to explore the evolution of the attributions and titles of the paintings and to provide a visual representation of the listed artworks.",
 			"@language": "en"
 		}
 	],
@@ -53,27 +53,6 @@
 					"label": "Page 6",
 					"height": 1756,
 					"width": 1138,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://6b9e00f6-98ad-4977-ba6c-1c37c24fadc7",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f22/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f22",
-									"profile": "http://iiif.io/api/image/2/level0.json"
-								},
-								"height": 1756,
-								"width": 1138
-							},
-							"on": "http://59148884-46a5-4ec1-8012-358dfb9cf263"
-						}
-					],
 					"related": [
 						{
 							"@id": "https://www.pop.culture.gouv.fr/notice/joconde/06500100092?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22boulogne%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%228cb51b1-3126-585c-6156-8e651837c6d2%22",
@@ -94,27 +73,6 @@
 					"label": "Page 9",
 					"height": 1752,
 					"width": 1129,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://d1e9f752-6cc3-4d85-a851-914e46c04aff",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f25/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f25",
-									"profile": "http://iiif.io/api/image/2/level0.json"
-								},
-								"height": 1752,
-								"width": 1129
-							},
-							"on": "http://8ef38697-bee8-4ed7-926f-3de3cd713216"
-						}
-					],
 					"related": [
 						{
 							"@id": "https://www.pop.culture.gouv.fr/notice/joconde/M0650000165?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22kermesse%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%22ef8846-fec7-a77b-b8c6-08f75c30201%22",
@@ -142,27 +100,6 @@
 					"label": "Page 10",
 					"height": 1749,
 					"width": 1124,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://29951025-9844-4192-aa8d-ef988e91c170",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f26/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f26",
-									"profile": "http://iiif.io/api/image/2/level0.json"
-								},
-								"height": 1749,
-								"width": 1124
-							},
-							"on": "http://4cf3355f-087a-4a7b-9468-c70e58a9d15f"
-						}
-					],
 					"related": [
 						{
 							"@id": "https://www.pop.culture.gouv.fr/notice/joconde/06500100188?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22abraham%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%221b1ee-fcec-7ae1-eba5-6e67ff8552f3%22",
@@ -189,27 +126,6 @@
 					"label": "Page 31",
 					"height": 1760,
 					"width": 1135,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://1210ca88-237b-4001-84b9-913e8db842f2",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f47/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f47",
-									"profile": "http://iiif.io/api/image/2/level0.json"
-								},
-								"height": 1760,
-								"width": 1135
-							},
-							"on": "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
-						}
-					],
 					"related": {
 						"@id": "https://www.pop.culture.gouv.fr/notice/joconde/M0650000251?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22mages%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%22023c276-074e-5a5-c2fb-1fdec625c3ee%22",
 						"label": "Base Joconde : Adoration des mages",
@@ -220,6 +136,33 @@
 							"@type" : "sc:AnnotationList",
 							"@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page31.json",
 							"label" : "Annotations for Page 31"
+						} 
+					]
+				},
+				{
+					"@id": "http://0b114031-ff54-4db3-bfe3-c5a99922c39d",
+					"@type": "sc:Canvas",
+					"label": "Page 32",
+					"height": 1758,
+					"width": 1127,
+					"related": [
+						"https://gallica.bnf.fr/ark:/12148/bpt6k6524683j",
+						{
+							"@id": "https://www.pop.culture.gouv.fr/notice/joconde/06500100012?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22portrait%20de%20femme%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%221eae50-66c7-6355-bef-5705a5cabe%22",
+							"label": "Base Joconde : Portrait de femme",
+							"format": "HTML"
+						},
+						{
+							"@id": "https://www.pop.culture.gouv.fr/notice/joconde/M0650000190?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22port%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%22dc8ce7-a08a-0537-ca2-f3d7653fc6%22",
+							"label": "Base Joconde : Vue d'un port du Levant",
+							"format": "HTML"
+						}
+					],
+					"otherContent" : [ 
+						{
+							"@type" : "sc:AnnotationList",
+							"@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page32.json",
+							"label" : "Annotations for Page 32"
 						} 
 					]
 				}
@@ -239,7 +182,8 @@
 				"http://example.org/iiif/book1/range/range3",
 				"http://example.org/iiif/book1/range/range4",
 				"http://example.org/iiif/book1/range/range5",
-				"http://example.org/iiif/book1/range/range6"
+				"http://example.org/iiif/book1/range/range6",
+				"http://example.org/iiif/book1/range/range7"
 			]
 		},
 		{
@@ -289,6 +233,14 @@
 			"label": "Michiel Jansz. van Mierevelt",
 			"canvases": [
 				"http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
+			]
+		},
+		{
+			"@id": "http://example.org/iiif/book1/range/range7",
+			"@type": "sc:Range",
+			"label": "Hendrik van Minderhout",
+			"canvases": [
+				"http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
 			]
 		}
 	]
