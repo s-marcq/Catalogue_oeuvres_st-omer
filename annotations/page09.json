@@ -1,0 +1,230 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Born in Brussels in 1564/5",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Born in Brussels in <strong>1564/5</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:47:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707094035721",
+    "dcterms:modified" : "2024-02-05T00:47:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=710,1283,197,36"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M709.69091,1283.25278h98.52727v0h98.52727v18.01818v18.01818h-98.52727h-98.52727v-18.01818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_23e7f5fe-2fc8-4b1f-9a8c-70e565cec10b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8ef38697-bee8-4ed7-926f-3de3cd713216"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=248,1317,112,36"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M247.58182,1317.28914h55.98182v0h55.98182v18.01818v18.01818h-55.98182h-55.98182v-18.01818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4cf02ec7-55f0-44cf-a0d7-74d9c6c5104c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8ef38697-bee8-4ed7-926f-3de3cd713216"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Latest attribution : Pieter BrueghelCurrent title (french) : Kermesse flamande.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Latest attribution : Pieter Brueghel<br />Current title (french) : <em>Kermesse flamande</em>.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:44:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707093892957",
+    "dcterms:modified" : "2024-02-05T00:50:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=205,839,326,47"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M205.18182,839.25278h162.81818v0h162.81818v23.27273v23.27273h-162.81818h-162.81818v-23.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_22e6f088-1a77-4a13-a425-664db670065f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"12.88235\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8ef38697-bee8-4ed7-926f-3de3cd713216"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://upload.wikimedia.org/wikipedia/commons/8/82/L%27excision_de_la_pierre_de_folie_-_Pieter_Bruegel.jpg\" alt=\"The Excision of the Stone of Madness\" />\nCopy after Pieter Bruegel (1525?-1569), The Excision of the Stone of Madness, c. 1557, 77x107 cm, Saint-Omer, Mus&eacute;e Sandelin.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/8/82/L%27excision_de_la_pierre_de_folie_-_Pieter_Bruegel.jpg\" alt=\"The Excision of the Stone of Madness\" /></p>\n<p>Copy after Pieter Bruegel (1525?-1569), <em>The Excision of the Stone of Madness,</em> c. 1557, 77x107 cm, Saint-Omer, Mus&eacute;e Sandelin.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:42:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707093770318",
+    "dcterms:modified" : "2024-02-05T01:09:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=245,207,669,459"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M245.18182,206.93915h334.63636v0h334.63636v229.63636v229.63636h-334.63636h-334.63636v-229.63636z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_50f9d593-0732-4b66-83a0-2631c18ef61a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"12.88235\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8ef38697-bee8-4ed7-926f-3de3cd713216"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "&nbsp;\n<img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/M0650000165/052686.jpg\" alt=\"Pieter Brueghel, Flemish &quot;kermesse&quot;\" />\nPieter Brueghel, Flemish party (\"kermesse\"), end of the 16th century/beginning ot the 17th century, oil on panel, 42x65 cm, Saint-Omer, Mus&eacute;e Sandelin.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>&nbsp;</p>\n<p><img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/M0650000165/052686.jpg\" alt=\"Pieter Brueghel, Flemish &quot;kermesse&quot;\" /></p>\n<p>Pieter Brueghel, <em>Flemish party (\"kermesse\")</em>, end of the 16th century/beginning ot the 17th century, oil on panel, 42x65 cm, Saint-Omer, Mus&eacute;e Sandelin.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:46:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707093991048",
+    "dcterms:modified" : "2024-02-05T00:46:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=249,891,692,369"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M940.63636,1260.16187h-345.81818v0h-345.81818v-184.45455v-184.45455h345.81818h345.81818v184.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_dddbe202-1be1-4eac-833e-a23c953cb389\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8ef38697-bee8-4ed7-926f-3de3cd713216"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "died in 1637/8",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>died in 16<strong>37/8</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T00:43:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707093832214",
+    "dcterms:modified" : "2024-02-05T00:43:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=416,724,245,35"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M416.09091,723.79823h122.36364v0h122.36364v17.36364v17.36364h-122.36364h-122.36364v-17.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d6de7972-8649-499c-87dd-6fde43af8a5e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8ef38697-bee8-4ed7-926f-3de3cd713216"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Latest attribution : Joos de Momper&nbsp;Current title (french) : Paysage aux patineurs.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Latest attribution : <strong>Joos de Momper&nbsp;<br /></strong>Current title (french) : <em>Paysage aux patineurs.</em></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "change of attribution",
+      "@type" : "oa:Tag",
+      "chars" : "change of attribution"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "change of title",
+      "@type" : "oa:Tag",
+      "chars" : "change of title"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105782832",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-02-05T00:48:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707094087095",
+    "dcterms:modified" : "2024-02-05T01:09:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=204,1398,302,62"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M204.38182,1397.92727h150.89091v0h150.89091v31.10909v31.10909h-150.89091h-150.89091v-31.10909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_13584497-eb5b-446f-9791-171942bc1f52\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"6.44118\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8ef38697-bee8-4ed7-926f-3de3cd713216"
+    } ]
+  } ],
+  "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page09.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
