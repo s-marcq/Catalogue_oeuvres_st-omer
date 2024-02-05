@@ -30,7 +30,7 @@
 	],
 	"description": [
 		{
-			"@value": "Five pages from the Catalogue des tableaux du musée communal de Saint-Omer (1898) have been annotated in an attempt to explore the evolution of the attributions and titles of the paintings and to provide a visual representation of the listed artworks.",
+			"@value": "Four pages from the Catalogue des tableaux du musée communal de Saint-Omer (1898) have been annotated in an attempt to explore the evolution of the attributions and titles of the paintings and to provide a visual representation of the listed artworks.",
 			"@language": "en"
 		}
 	],
@@ -222,54 +222,6 @@
 							"label" : "Annotations for Page 31"
 						} 
 					]
-				},
-				{
-					"@id": "http://0b114031-ff54-4db3-bfe3-c5a99922c39d",
-					"@type": "sc:Canvas",
-					"label": "Page 32",
-					"height": 1758,
-					"width": 1127,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://121aa34e-5c21-4ed8-a986-cd4abe967828",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f48/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/images/f48",
-									"profile": "http://iiif.io/api/image/2/level0.json"
-								},
-								"height": 1758,
-								"width": 1127
-							},
-							"on": "http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
-						}
-					],
-					"related": [
-						"https://gallica.bnf.fr/ark:/12148/bpt6k6524683j",
-						{
-							"@id": "https://www.pop.culture.gouv.fr/notice/joconde/06500100012?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22portrait%20de%20femme%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%221eae50-66c7-6355-bef-5705a5cabe%22",
-							"label": "Base Joconde : Portrait de femme",
-							"format": "HTML"
-						},
-						{
-							"@id": "https://www.pop.culture.gouv.fr/notice/joconde/M0650000190?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22port%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%22dc8ce7-a08a-0537-ca2-f3d7653fc6%22",
-							"label": "Base Joconde : Vue d'un port du Levant",
-							"format": "HTML"
-						}
-					],
-					"otherContent" : [ 
-						{
-							"@type" : "sc:AnnotationList",
-							"@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page32.json",
-							"label" : "Annotations for Page 32"
-						} 
-					]
 				}
 			]
 		}
@@ -287,8 +239,7 @@
 				"http://example.org/iiif/book1/range/range3",
 				"http://example.org/iiif/book1/range/range4",
 				"http://example.org/iiif/book1/range/range5",
-				"http://example.org/iiif/book1/range/range6",
-				"http://example.org/iiif/book1/range/range7"
+				"http://example.org/iiif/book1/range/range6"
 			]
 		},
 		{
@@ -338,14 +289,6 @@
 			"label": "Michiel Jansz. van Mierevelt",
 			"canvases": [
 				"http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
-			]
-		},
-		{
-			"@id": "http://example.org/iiif/book1/range/range7",
-			"@type": "sc:Range",
-			"label": "Hendrik van Minderhout",
-			"canvases": [
-				"http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
 			]
 		}
 	]
