@@ -74,6 +74,14 @@
 							"on": "http://59148884-46a5-4ec1-8012-358dfb9cf263"
 						}
 					],
+          "otherContent": [
+            {
+                "@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page06.json",
+                "@type": "sc:AnnotationList",
+                "label": "Annotations for page 6"
+            }
+        ],
+        
 					"related": [
 						{
 							"@id": "https://www.pop.culture.gouv.fr/notice/joconde/06500100092?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22boulogne%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%228cb51b1-3126-585c-6156-8e651837c6d2%22",
@@ -115,6 +123,14 @@
 							"on": "http://8ef38697-bee8-4ed7-926f-3de3cd713216"
 						}
 					],
+          "otherContent": [
+            {
+                "@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page09.json",
+                "@type": "sc:AnnotationList",
+                "label": "Annotations for page 9"
+            }
+        ],
+        
 					"related": [
 						{
 							"@id": "https://www.pop.culture.gouv.fr/notice/joconde/M0650000165?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22kermesse%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%22ef8846-fec7-a77b-b8c6-08f75c30201%22",
@@ -156,6 +172,14 @@
 							"on": "http://4cf3355f-087a-4a7b-9468-c70e58a9d15f"
 						}
 					],
+          "otherContent": [
+            {
+                "@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page10.json",
+                "@type": "sc:AnnotationList",
+                "label": "Annotations for page 10"
+            }
+        ],
+        
 					"related": [
 						{
 							"@id": "https://www.pop.culture.gouv.fr/notice/joconde/06500100188?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22abraham%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%221b1ee-fcec-7ae1-eba5-6e67ff8552f3%22",
@@ -196,6 +220,14 @@
 							"on": "http://04ccd09e-d5de-4d1e-ae68-dacfb726a46c"
 						}
 					],
+          "otherContent": [
+            {
+                "@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page31.json",
+                "@type": "sc:AnnotationList",
+                "label": "Annotations for page 31"
+            }
+        ],
+        
 					"related": {
 						"@id": "https://www.pop.culture.gouv.fr/notice/joconde/M0650000251?base=%5B%22Collections%20des%20mus%C3%A9es%20de%20France%20%28Joconde%29%22%5D&mainSearch=%22mages%22&ou=%5B%22Saint-Omer%22%2C%22mus%C3%A9e%20de%20l%27h%C3%B4tel%20Sandelin%22%5D&last_view=%22list%22&idQuery=%22023c276-074e-5a5-c2fb-1fdec625c3ee%22",
 						"label": "Base Joconde : Adoration des mages",
@@ -229,6 +261,14 @@
 							"on": "http://0b114031-ff54-4db3-bfe3-c5a99922c39d"
 						}
 					],
+          "otherContent": [
+            {
+                "@id": "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page32.json",
+                "@type": "sc:AnnotationList",
+                "label": "Annotations for page 32"
+            }
+        ],
+        
 					"related": [
 						"https://gallica.bnf.fr/ark:/12148/bpt6k6524683j",
 						{
