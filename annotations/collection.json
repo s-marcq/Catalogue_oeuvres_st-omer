@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page10.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page31.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page6.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/b16507bf3f9f75b28859114ba2dd6eca.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page32.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page06.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page09.json" ],
+  "otherContent" : [ "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page10.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page31.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page6.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/b16507bf3f9f75b28859114ba2dd6eca.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page32.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page06.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page09.json", "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/page10.json" ],
   "@id" : "https://s-marcq.github.io/Catalogue_oeuvres_st-omer/annotations/collection.json",
   "label" : "All annotations loaded in s-marcq/Catalogue_oeuvres_st-omer project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
